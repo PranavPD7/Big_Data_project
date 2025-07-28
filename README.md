@@ -1,5 +1,5 @@
 Azure End‑to‑End Data Engineering Project
-A comprehensive end‑to‑end data engineering pipeline built on Azure, incorporating real-time ingestion, transformation, structured storage, data modeling, and dashboarding—designed for production.
+A comprehensive end‑to‑end data engineering pipeline built on Azure, incorporating real-time ingestion, transformation, structured storage, data modeling, and dashboarding.
 
 🛠 Tech Stack
 Azure Data Factory (ADF) for ingestion & orchestration
